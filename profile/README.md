@@ -29,22 +29,23 @@ Bayesian inference and a Bayesian workflow, specifically using the
 
 + [**Oreum Copula**](https://oreum-industries.github.io/oreum_copula/#/) 
   Copula Regression Modeling. This provides an extremely valuable method to 
-  properly estimate Expected Loss Costs when Claims Frequency & Severity are 
-  correlated in low data environments. _Public Intro Slides, Commercial License_.
+  estimate Expected Loss Costs when Claims Frequency & Severity are 
+  correlated in low data environments. Demonstrated 32 percentage-point 
+  improvement in accuracy vs non-copula model. _Public Intro Slides, Commercial License_
 
 + [**Oreum Survival**](https://github.com/oreum-industries/oreum_survival) 
   Survival Regression Modeling. This provides an extremely valuable suite of 
   model architectures to estimate time-to-event via right-censored Accelerated 
   Failure Time (AFT) and semi-parametric (CoxPH) models. 
-  _Publicly Readable Code, Commercial License_.
+  _Publicly Readable Code, Commercial License_
 
 + [**PYMC Examples: GLM-missing-values-in-covariates**](https://github.com/jonsedar/pymc-examples/blob/new-example-glm-ordinal-features/examples/generalized_linear_models/GLM-ordinal-features.ipynb). 
-+ Full Bayesian workflow example on how to handle and impute missing data in 
+  Full Bayesian workflow example on how to handle and impute missing data in 
   exogenous (predictor) covariates in `pymc`. 
-  _Public Code, Open Source License, (pending PR)_.
+  _Public Code, Open Source License, (pending PR)_
 
 + [**PYMC Examples: GLM-ordinal-features**](https://github.com/jonsedar/pymc-examples/blob/new-example-glm-missing-numeric-values/examples/generalized_linear_models/GLM-missing-values-in-covariates.ipynb). 
-+ Full Bayesian workflow example on how to handle ordinal data in exogenous 
+  Full Bayesian workflow example on how to handle ordinal data in exogenous 
   (predictor) covariates in `pymc`.
   _Public Code, Open Source License, (pending PR)_.
 
@@ -59,14 +60,14 @@ tackle a new challenge.
   Survival regression of a lung cancer mortality study with conventional 
   full-period observations. Uses a novel Accelerated Failure Time architecture 
   that handles right-censoring, missing data, ordinal covariates and a linear 
-  regression submodel. _Public Overview Slides, Commercial License_.
+  regression submodel. _Public Overview Slides, Commercial License_
 
 + [**Oreum Case Study: ONS**](https://oreum-industries.github.io/oreum_cs_ons/#/)
   Survival regression of a multi-year England & Wales ONS aggregated deaths-only 
   dataset. This is a very compromised dataset but interesting to tackle, and 
   requires a highly novel modified AFT architecture to allow for right-truncation 
-  (not right-censoring). _Public Overview Slides, Commercial License_.
-  
+  (not right-censoring). _Public Overview Slides, Commercial License_
+
 + [**Oreum Wholelife Simulator**](https://github.com/oreum-industries/oreum_mre_wholelife)
    Simulate the cash value of WholeLife Insurance Policies using a parameterised
    survival curve including financial activities (investments, drawdowns).
@@ -82,7 +83,7 @@ projects
   used by Oreum Industries on client projects to make data science work faster,
   more repeatable and consistent etc. Includes various data diagnostics, EDA 
   plots, model factories, Bayesian model evaluation etc. 
-  _Public Code, Open Source License_.
+  _Public Code, Open Source License_
 
 + [**Oreum Template**](https://github.com/oreum-industries/oreum_template) A 
   reusable template project structure - all our projects adhere to this.
