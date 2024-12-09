@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Theme",
+		"terminal.integrated.env.osx": { "PATH": "" },
+		"cSpell.enabled": true,
+		"cSpell.enabledFileTypes": {
+			"jupyter": true
+		}
+	}
+}
