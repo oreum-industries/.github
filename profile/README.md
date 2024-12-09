@@ -2,11 +2,10 @@
 
 [Oreum Industries](https://oreum.io) is a data science consultancy from 
 [Jonathan Sedar](https://github.com/jonsedar) in collaboration with a worldwide
-network of expert developers and leaders.
-
-We focus on the insurance industry through experience & inclination, helping 
-underwriters, insurtechs and corporates to learn from data. We operate remotely 
-& globally, with a client base spanning USA, UK, Europe and the Middle East.
+network of expert developers and leaders. We focus on the insurance industry, 
+helping underwriters, insurtechs and corporates to learn from data. We operate 
+remotely & globally, with a client base spanning USA, UK, Europe and the Middle 
+East.
 
 Our technical bread and butter is advanced Bayesian statistical modeling, 
 to create an edge in pricing & reserving throughout general & life insurance.
@@ -39,14 +38,15 @@ Bayesian inference and a Bayesian workflow, specifically using the
   Failure Time (AFT) and semi-parametric (CoxPH) models. 
   _Publicly Readable Code, Commercial License_.
 
-+ [**PYMC Examples: GLM-missing-values-in-covariates**](https://www.pymc.io/projects/docs/en/stable/learn/generalized_linear_models/GLM-missing-values-in-covariates.html). Full Bayesian
-  workflow example on how to handle and impute missing data in exogenous (predictor) 
-  covariates in `pymc`. _Public Code, Open Source License_. (pending PR)
++ [**PYMC Examples: GLM-missing-values-in-covariates**](https://github.com/jonsedar/pymc-examples/blob/new-example-glm-ordinal-features/examples/generalized_linear_models/GLM-ordinal-features.ipynb). 
++ Full Bayesian workflow example on how to handle and impute missing data in 
+  exogenous (predictor) covariates in `pymc`. 
+  _Public Code, Open Source License, (pending PR)_.
 
-
-+ [**PYMC Examples: GLM-ordinal-features**](https://www.pymc.io/projects/docs/en/stable/learn/generalized_linear_models/GLM-ordinal-features.html). Full Bayesian workflow example on how to handle 
-  ordinal data in exogenous (predictor) covariates in `pymc`.
-  _Public Code, Open Source License_. (pending PR)
++ [**PYMC Examples: GLM-ordinal-features**](https://github.com/jonsedar/pymc-examples/blob/new-example-glm-missing-numeric-values/examples/generalized_linear_models/GLM-missing-values-in-covariates.ipynb). 
++ Full Bayesian workflow example on how to handle ordinal data in exogenous 
+  (predictor) covariates in `pymc`.
+  _Public Code, Open Source License, (pending PR)_.
 
 
 ## Case Studies
@@ -75,7 +75,8 @@ tackle a new challenge.
 
 ## Support
 
-These are supporting repos to aid development on client projects
+These are supporting repos to aid high-quality software development on client 
+projects
 
 + [**Oreum Core**](https://github.com/oreum-industries/oreum_core) Core tools
   used by Oreum Industries on client projects to make data science work faster,
@@ -86,7 +87,6 @@ These are supporting repos to aid development on client projects
 + [**Oreum Template**](https://github.com/oreum-industries/oreum_template) A 
   reusable template project structure - all our projects adhere to this.
   _Publicly Readable Code, Commercial License_.
-
 
 
 ---
