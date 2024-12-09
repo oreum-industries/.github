@@ -4,7 +4,7 @@
 *.netcdf
 
 # Additional local dirs
-dev/notes/
+dev/notes*
 dev/install_log/*.txt
 src/*/*.png
 
