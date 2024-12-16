@@ -39,14 +39,14 @@ Bayesian inference and a Bayesian workflow, specifically using the
   Failure Time (AFT) and semi-parametric (CoxPH) models. 
   _Publicly Readable Code, Commercial License_
 
-+ [**PYMC Examples: GLM-missing-values-in-covariates**](https://github.com/jonsedar/pymc-examples/blob/new-example-glm-ordinal-features/examples/generalized_linear_models/GLM-ordinal-features.ipynb). 
-  Full Bayesian workflow example on how to handle and impute missing data in 
-  exogenous (predictor) covariates in `pymc`. 
-  _Public Code, Open Source License, (pending PR)_
-
-+ [**PYMC Examples: GLM-ordinal-features**](https://github.com/jonsedar/pymc-examples/blob/new-example-glm-missing-numeric-values/examples/generalized_linear_models/GLM-missing-values-in-covariates.ipynb). 
++ [**PYMC Examples: GLM-ordinal-features**](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-ordinal-features.html)
   Full Bayesian workflow example on how to handle ordinal data in exogenous 
   (predictor) covariates in `pymc`.
+  _Public Code, Open Source License_
+
++ [**PYMC Examples: GLM-missing-values-in-covariates**](https://github.com/jonsedar/pymc-examples/blob/new-example-glm-ordinal-features/examples/generalized_linear_models/GLM-ordinal-features.ipynb)
+  Full Bayesian workflow example on how to handle and impute missing data in 
+  exogenous (predictor) covariates in `pymc`. 
   _Public Code, Open Source License, (pending PR)_.
 
 
