@@ -44,10 +44,10 @@ Bayesian inference and a Bayesian workflow, specifically using the
   (predictor) covariates in `pymc`.
   _Public Code, Open Source License_
 
-+ [**PYMC Examples: GLM-missing-values-in-covariates**](https://github.com/jonsedar/pymc-examples/blob/new-example-glm-ordinal-features/examples/generalized_linear_models/GLM-ordinal-features.ipynb)
++ [**PYMC Examples: GLM-missing-values-in-covariates**](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-missing-values-in-covariates.html)
   Full Bayesian workflow example on how to handle and impute missing data in 
   exogenous (predictor) covariates in `pymc`. 
-  _Public Code, Open Source License, (pending PR)_.
+  _Public Code, Open Source License_
 
 
 ## Case Studies
@@ -71,7 +71,7 @@ tackle a new challenge.
 + [**Oreum Wholelife Simulator**](https://github.com/oreum-industries/oreum_mre_wholelife)
    Simulate the cash value of WholeLife Insurance Policies using a parameterised
    survival curve including financial activities (investments, drawdowns).
-  _Publicly Readable Code, Commercial License_.
+  _Publicly Readable Code, Commercial License_
 
 
 ## Support
@@ -87,7 +87,7 @@ projects
 
 + [**Oreum Template**](https://github.com/oreum-industries/oreum_template) A 
   reusable template project structure - all our projects adhere to this.
-  _Publicly Readable Code, Commercial License_.
+  _Publicly Readable Code, Commercial License_
 
 
 ---
