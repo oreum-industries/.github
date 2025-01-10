@@ -1,11 +1,11 @@
 # End-User License Agreement (EULA) of `oreum_github_profile`
 
 This End-User License Agreement ("EULA") is a legal agreement between you and
-Oreum OÜ t/a Oreum Industries, Sepapaja 6, Tallinn, 15551, Estonia,
-reg.16122291, [oreum.io](https://oreum.io)
+Oreum FZCO t/a Oreum Industries, IFZA, Dubai Silicon Oasis, Dubai, UAE. 
+reg. 25515. [oreum.io](https://oreum.io)
 
 This EULA agreement governs your acquisition and use of our `oreum_github_profile`
-software ("Software") directly from Oreum OÜ or indirectly through a Oreum OÜ
+software ("Software") directly from Oreum FZCO or indirectly through a Oreum FZCO
 authorized reseller or distributor (a "Reseller"). Our Privacy Policy was
 created by the Privacy Policy Generator.
 
@@ -25,15 +25,15 @@ its affiliates to these terms and conditions. If you do not have such authority
 or if you do not agree with the terms and conditions of this EULA agreement, do
 not install or use the Software, and you must not accept this EULA agreement.
 
-This EULA agreement shall apply only to the Software supplied by Oreum OÜ
+This EULA agreement shall apply only to the Software supplied by Oreum FZCO
 herewith regardless of whether other software is referred to or described
-herein. The terms also apply to any Oreum OÜ updates, supplements,
+herein. The terms also apply to any Oreum FZCO updates, supplements,
 Internet-based services, and support services for the Software, unless other
 terms accompany those items on delivery. If so, those terms apply.
 
 ## License Grant
 
-Oreum OÜ hereby grants you a personal, non-transferable, non-exclusive licence
+Oreum FZCO hereby grants you a personal, non-transferable, non-exclusive licence
 to use the `oreum_github_profile` software on your devices in accordance with the terms
 of this EULA agreement.
 
@@ -54,25 +54,25 @@ commercial purpose
 any third party
 + Use the Software in any way which breaches any applicable local, national or
 international law
-+ Use the Software for any purpose that Oreum OÜ considers is a breach of this
++ Use the Software for any purpose that Oreum FZCO considers is a breach of this
 EULA agreement
 
 ## Intellectual Property and Ownership
 
-Oreum OÜ shall at all times retain ownership of the Software as originally
+Oreum FZCO shall at all times retain ownership of the Software as originally
 downloaded by you and all subsequent downloads of the Software by you. The
 Software (and the copyright, and other intellectual property rights of whatever
 nature in the Software, including any modifications made thereto) are and shall
-remain the property of Oreum OÜ.
+remain the property of Oreum FZCO.
 
-Oreum OÜ reserves the right to grant licences to use the Software to third
+Oreum FZCO reserves the right to grant licences to use the Software to third
 parties.
 
 ## Termination
 
 This EULA agreement is effective from the date you first use the Software and
 shall continue until terminated. You may terminate it at any time upon written
-notice to Oreum OÜ, and must stop using the Software with immediate effect, and
+notice to Oreum FZCO, and must stop using the Software with immediate effect, and
 uninstall the Software from all devices where you have installed it with
 immediate effect.
 
@@ -91,4 +91,4 @@ of the Republic of Estonia.
 All rights reserved.
 
 ---
-Oreum OÜ &copy; 2024
+Oreum &copy; 2024

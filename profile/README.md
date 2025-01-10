@@ -91,4 +91,4 @@ projects
 
 
 ---
-Oreum OÜ &copy; 2024
+Oreum &copy; 2024
