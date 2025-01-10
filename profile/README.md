@@ -31,7 +31,8 @@ Bayesian inference and a Bayesian workflow, specifically using the
   Copula Regression Modeling. This provides an extremely valuable method to 
   estimate Expected Loss Costs when Claims Frequency & Severity are 
   correlated in low data environments. Demonstrated 32 percentage-point 
-  improvement in accuracy vs non-copula model. _Public Intro Slides, Commercial License_
+  improvement in accuracy vs non-copula model. 
+  _Publicly Readable Code, Commercial License_
 
 + [**Oreum Survival**](https://github.com/oreum-industries/oreum_survival) 
   Survival Regression Modeling. This provides an extremely valuable suite of 
@@ -91,4 +92,4 @@ projects
 
 
 ---
-Oreum FZCO &copy; 2024
+Oreum Industries &copy; 2024
