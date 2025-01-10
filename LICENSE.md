@@ -91,4 +91,4 @@ of the Republic of Estonia.
 All rights reserved.
 
 ---
-Oreum &copy; 2024
+Oreum FZCO &copy; 2024
