@@ -91,4 +91,4 @@ projects
 
 
 ---
-Oreum OÜ &copy; 2024
+Oreum FZCO &copy; 2024
