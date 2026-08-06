@@ -75,21 +75,5 @@ tackle a new challenge.
   _Publicly Readable Code, Commercial License_
 
 
-## Support
-
-These are supporting repos to aid high-quality software development on client 
-projects
-
-+ [**Oreum Core**](https://github.com/oreum-industries/oreum_core) Core tools
-  used by Oreum Industries on client projects to make data science work faster,
-  more repeatable and consistent etc. Includes various data diagnostics, EDA 
-  plots, model factories, Bayesian model evaluation etc. 
-  _Public Code, Open Source License_
-
-+ [**Oreum Template**](https://github.com/oreum-industries/oreum_template) A 
-  reusable template project structure - all our projects adhere to this.
-  _Publicly Readable Code, Commercial License_
-
-
 ---
 Oreum Industries &copy; 2024
